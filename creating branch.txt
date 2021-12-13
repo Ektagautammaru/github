@@ -1,4 +1,5 @@
-i am creating branch in it.
+just make sure while commiting 
+don't commit in main branch 
 
-just do things correctly.
+
 
